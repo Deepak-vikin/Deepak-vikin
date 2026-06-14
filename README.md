@@ -137,7 +137,7 @@ I'm a **second-year B.Tech AIML student** at Sri Shakthi Institute of Engineerin
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=deepakvikin26&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Deepak-vikin&theme=tokyonight&hide_border=true)
 
 </div>
 
