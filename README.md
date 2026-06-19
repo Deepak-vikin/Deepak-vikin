@@ -56,14 +56,7 @@ I'm a **second-year B.Tech AIML student** at Sri Shakthi Institute of Engineerin
   <a href="https://code.visualstudio.com/docs" target="_blank">
     <img src="https://skillicons.dev/icons?i=vscode" />
   </a>
-  
-  <a href="https://www.tensorflow.org/learn" target="_blank">
-    <img src="https://skillicons.dev/icons?i=tensorflow" />
-  </a>
-  
-  <a href="https://pytorch.org/docs/stable/index.html" target="_blank">
-    <img src="https://skillicons.dev/icons?i=pytorch" />
-  </a>
+
 </p>
 
 <p align="center">
