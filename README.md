@@ -13,8 +13,6 @@ I'm a **second-year B.Tech AIML student** at Sri Shakthi Institute of Engineerin
 - 🎓 **Degree:** B.Tech — Artificial Intelligence & Machine Learning (2024–2028)
 - 📊 **CGPA:** 8.63
 - 🌍 **Location:** Coimbatore, India
-- 💡 **Currently learning:** LangGraph · Multi-Agent Systems · GitHub Actions · Advanced Backend Engineering
-- 🎯 **Goal:** Build scalable AI systems and robust backend APIs
 
 ---
 
@@ -29,40 +27,45 @@ I'm a **second-year B.Tech AIML student** at Sri Shakthi Institute of Engineerin
 </div>
 
 ---
-
+```markdown
 ## ⚙️ Tech Stack
 
-**Languages**
+### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c" />
+</p>
 
-**Backend & APIs**
+### Backend & APIs
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat-square)
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi" />
+</p>
 
-**LLM & GenAI**
+### LLM & GenAI
 
-![LangChain](https://img.shields.io/badge/LangChain-121D33?style=flat-square)
-![FAISS](https://img.shields.io/badge/FAISS-FF6B6B?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG%20Systems-6C63FF?style=flat-square)
-![LLaMA](https://img.shields.io/badge/LLaMA-FF7F00?style=flat-square)
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
 
-**Machine Learning**
+LangChain • FAISS • RAG • Llama 3 • Ollama • Gemini API
 
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+### Machine Learning
 
-**Database & Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
+</p>
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
+Pandas • NumPy • Matplotlib
 
----
+### Database & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
+</p>
+```
+
+
 
 ## 🚀 Featured Projects
 
@@ -94,23 +97,12 @@ I'm a **second-year B.Tech AIML student** at Sri Shakthi Institute of Engineerin
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Deepak_Vikin?theme=light&font=Baloo+2&ext=heatmap)
 
-</div>
-
-**Solved:** 104 problems across Python3, Python, and C
-
-| Skill Level | Topics |
-|---|---|
-| 🔴 Advanced | Dynamic Programming ×7, Divide & Conquer ×4, Trie ×1 |
-| 🟡 Intermediate | Math ×20, Binary Search ×13, Hash Table ×12 |
-| 🟢 Fundamental | Array ×57, Two Pointers ×30, String ×19 |
-
----
 
 ## 📜 Certifications
 
 | Certificate | Issuer | Date |
 |---|---|---|
-| 🏅 Data Analytics Job Simulation | TATA (Forage) | — |
+| 🏅 Data Analytics Job Simulation | TATA (Forage) | May 2026 |
 | ⚡ FastAPI Development Course | Udemy · Code Solve Execute | Jan 2026 |
 | 🌐 Full Stack Development Course | NoviTech R&D Private Limited | Dec 2025 |
 
