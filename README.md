@@ -27,44 +27,23 @@ I'm a **second-year B.Tech AIML student** at Sri Shakthi Institute of Engineerin
 </div>
 
 ---
-```markdown
 ## ⚙️ Tech Stack
 
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,fastapi,mysql,git,github,vscode,tensorflow,pytorch" />
 </p>
 
-### Backend & APIs
-
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi" />
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/FAISS-FF4B4B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Llama3-F97316?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 </p>
-
-### LLM & GenAI
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-LangChain • FAISS • RAG • Llama 3 • Ollama • Gemini API
-
-### Machine Learning
-
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
-</p>
-
-Pandas • NumPy • Matplotlib
-
-### Database & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
-</p>
-```
-
 
 
 ## 🚀 Featured Projects
