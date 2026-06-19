@@ -26,25 +26,83 @@ I'm a **second-year B.Tech AIML student** at Sri Shakthi Institute of Engineerin
 
 </div>
 
----
 ## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,fastapi,mysql,git,github,vscode,tensorflow,pytorch" />
+  <a href="https://www.python.org/doc/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" />
+  </a>
+  
+  <a href="https://devdocs.io/c/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=c" />
+  </a>
+  
+  <a href="https://fastapi.tiangolo.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=fastapi" />
+  </a>
+  
+  <a href="https://dev.mysql.com/doc/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" />
+  </a>
+  
+  <a href="https://git-scm.com/doc" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" />
+  </a>
+  
+  <a href="https://docs.github.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  
+  <a href="https://code.visualstudio.com/docs" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vscode" />
+  </a>
+  
+  <a href="https://www.tensorflow.org/learn" target="_blank">
+    <img src="https://skillicons.dev/icons?i=tensorflow" />
+  </a>
+  
+  <a href="https://pytorch.org/docs/stable/index.html" target="_blank">
+    <img src="https://skillicons.dev/icons?i=pytorch" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/FAISS-FF4B4B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG-2563EB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Llama3-F97316?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-</p>
+  <a href="https://python.langchain.com/docs/introduction/">
+    <img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge" />
+  </a>
 
+  <a href="https://faiss.ai/">
+    <img src="https://img.shields.io/badge/FAISS-red?style=for-the-badge" />
+  </a>
+
+  <a href="https://docs.langchain.com/docs/use-cases/question-answering/">
+    <img src="https://img.shields.io/badge/RAG-blue?style=for-the-badge" />
+  </a>
+
+  <a href="https://ollama.com/library">
+    <img src="https://img.shields.io/badge/Ollama-green?style=for-the-badge" />
+  </a>
+
+  <a href="https://www.llama.com/docs/">
+    <img src="https://img.shields.io/badge/Llama3-orange?style=for-the-badge" />
+  </a>
+
+  <a href="https://ai.google.dev/gemini-api/docs">
+    <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge" />
+  </a>
+
+  <a href="https://pandas.pydata.org/docs/">
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge" />
+  </a>
+
+  <a href="https://numpy.org/doc/">
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge" />
+  </a>
+
+  <a href="https://scikit-learn.org/stable/documentation.html">
+    <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge" />
+  </a>
+</p>
 
 ## 🚀 Featured Projects
 
