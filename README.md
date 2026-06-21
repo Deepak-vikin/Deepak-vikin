@@ -128,8 +128,9 @@ A data-driven AI system that automates exploratory data analysis and data prepro
 * Implemented **AI-powered preprocessing recommendations** using LangGraph, Ollama, and Llama 3
 * Generated **data quality reports, ML readiness assessments, and processed datasets** for model development
 * Designed the system to accelerate **data preparation, feature selection, and machine learning pipelines**
-
-`Python` `FastAPI` `Pandas` `NumPy` `Scikit-Learn` `LangGraph` `Ollama` `Llama 3` `HTML` `CSS` `JavaScript`
+<p>
+`Python` `Pandas` `NumPy` `Scikit-Learn` `FastAPI` `LangGraph` `Ollama` `Llama 3` `HTML` `CSS` `JavaScript`
+</p>
 ---
 
 ##  LeetCode Progress
