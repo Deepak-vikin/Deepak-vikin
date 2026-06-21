@@ -120,18 +120,19 @@ I'm a **second-year B.Tech AIML student** at Sri Shakthi Institute of Engineerin
 `Python` `Pandas` `NumPy` `Scikit-Learn` `MySQL` `Matplotlib`
 
 ---
-## AutoEDA Performer
+### AutoEDA Performer
 
-A data-driven AI system that automates exploratory data analysis and data preprocessing for machine learning workflows.
+> An AI-powered data preprocessing and exploratory data analysis platform that transforms raw datasets into machine-learning-ready data.
 
-* Performed **dataset profiling, data cleaning, and feature engineering** on structured datasets
-* Implemented **AI-powered preprocessing recommendations** using LangGraph, Ollama, and Llama 3
-* Generated **data quality reports, ML readiness assessments, and processed datasets** for model development
-* Designed the system to accelerate **data preparation, feature selection, and machine learning pipelines**
-<p>
+* Performed dataset profiling, missing value analysis, duplicate detection, and outlier identification
+* Implemented AI-driven preprocessing planning using LangGraph, Ollama, and Llama 3
+* Automated data cleaning, feature engineering recommendations, and ML readiness assessment
+* Generated processed datasets and detailed quality reports to accelerate machine learning workflows
+
 `Python` `Pandas` `NumPy` `Scikit-Learn` `FastAPI` `LangGraph` `Ollama` `Llama 3` `HTML` `CSS` `JavaScript`
-</p>
+
 ---
+
 
 ##  LeetCode Progress
 
