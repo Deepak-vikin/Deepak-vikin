@@ -6,17 +6,17 @@
 
 ---
 
-## 👋 About Me
+## >>> About Me
 
 I'm a **second-year B.Tech AIML student** at Sri Shakthi Institute of Engineering and Technology, Coimbatore, with a strong focus on building production-ready AI systems and backend applications.
 
-- 🎓 **Degree:** B.Tech — Artificial Intelligence & Machine Learning (2024–2028)
-- 📊 **CGPA:** 8.63
-- 🌍 **Location:** Coimbatore, India
+-  **Degree:** B.Tech — Artificial Intelligence & Machine Learning (2024–2028)
+-  **CGPA:** 8.63
+-  **Location:** Coimbatore, India
 
 ---
 
-## 🔗 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
@@ -26,7 +26,7 @@ I'm a **second-year B.Tech AIML student** at Sri Shakthi Institute of Engineerin
 
 </div>
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 <p align="center">
   <a href="https://www.python.org/doc/" target="_blank">
@@ -97,9 +97,9 @@ I'm a **second-year B.Tech AIML student** at Sri Shakthi Institute of Engineerin
   </a>
 </p>
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🧠 RAG-Based Resume Analyzer
+###  RAG-Based Resume Analyzer
 > A Retrieval-Augmented Generation system that analyzes resumes and answers queries contextually.
 
 - Designed document ingestion, chunking, vector embedding, and similarity search using **FAISS**
@@ -110,7 +110,7 @@ I'm a **second-year B.Tech AIML student** at Sri Shakthi Institute of Engineerin
 
 ---
 
-### 📊 Uber Weekly Rider Demand Prediction
+###  Uber Weekly Rider Demand Prediction
 > A data-driven ML system that estimates weekly Uber rider demand from historical datasets.
 
 - Performed **EDA and feature engineering** on variables like population, income, parking cost, and pricing
@@ -120,20 +120,31 @@ I'm a **second-year B.Tech AIML student** at Sri Shakthi Institute of Engineerin
 `Python` `Pandas` `NumPy` `Scikit-Learn` `MySQL` `Matplotlib`
 
 ---
+## AutoEDA Performer
 
-## 🏆 LeetCode Progress
+A data-driven AI system that automates exploratory data analysis and data preprocessing for machine learning workflows.
+
+* Performed **dataset profiling, data cleaning, and feature engineering** on structured datasets
+* Implemented **AI-powered preprocessing recommendations** using LangGraph, Ollama, and Llama 3
+* Generated **data quality reports, ML readiness assessments, and processed datasets** for model development
+* Designed the system to accelerate **data preparation, feature selection, and machine learning pipelines**
+
+`Python` `FastAPI` `Pandas` `NumPy` `Scikit-Learn` `LangGraph` `Ollama` `Llama 3` `HTML` `CSS` `JavaScript`
+---
+
+##  LeetCode Progress
 
 <div align="center">
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Deepak_Vikin?theme=light&font=Baloo+2&ext=heatmap)
 
 
-## 📜 Certifications
+##  Certifications
 
 | Certificate | Issuer | Date |
 |---|---|---|
-| 🏅 Data Analytics Job Simulation | TATA (Forage) | May 2026 |
-| ⚡ FastAPI Development Course | Udemy · Code Solve Execute | Jan 2026 |
-| 🌐 Full Stack Development Course | NoviTech R&D Private Limited | Dec 2025 |
+|  Data Analytics Job Simulation | TATA (Forage) | May 2026 |
+|  FastAPI Development Course | Udemy · Code Solve Execute | Jan 2026 |
+|  Full Stack Development Course | NoviTech R&D Private Limited | Dec 2025 |
 
 ---
