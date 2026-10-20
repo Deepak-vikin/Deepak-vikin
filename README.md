@@ -8,7 +8,7 @@
 
 ## >>> About Me
 
-I'm a **second-year B.Tech AIML student** at Sri Shakthi Institute of Engineering and Technology, Coimbatore, with a strong focus on building production-ready AI systems and backend applications.
+I'm a **Third Year B.Tech AIML student** at Sri Shakthi Institute of Engineering and Technology, Coimbatore, with a strong focus on building production-ready AI systems and backend applications.
 
 -  **Degree:** B.Tech — Artificial Intelligence & Machine Learning (2024–2028)
 -  **CGPA:** 8.63
