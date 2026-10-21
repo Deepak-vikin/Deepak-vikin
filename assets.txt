@@ -1,0 +1,46 @@
+Name: Deepak Vaidhyanathan
+
+College: Sri Shakthi Institute of Engineering and Technology, Coimbatore
+
+Degree: B.Tech (2024–2028)
+
+Branch: Artificial Intelligence and Machine Learning (AIML)
+
+Year: Third Year
+
+Location: Coimbatore, Tamil Nadu, India
+
+About Me: B.Tech student specializing in Artificial Intelligence and Machine Learning, passionate about building practical AI/ML applications, Generative AI systems, and robust backend services. Interested in developing LLM-powered applications, RAG pipelines, computer vision solutions, and data-driven systems. Actively practice problem-solving through LeetCode to strengthen algorithmic thinking, data structures, and coding skills.
+
+Programming Languages: Python, C, SQL
+
+Backend Skills: FastAPI, Flask, REST APIs, LangChain, LangGraph
+
+Database Skills: MySQL, PostgreSQL, Supabase, SQLite, FAISS (vector similarity search)
+
+Tools: Git, GitHub, VS Code, Ollama, OpenRouter, Gemini API, LLaMA 3, Qwen, PyTorch, TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib, Hugging Face
+
+Projects:
+
+1. Retail Sales Intelligence Platform — Built a retail analytics system combining barcode-based billing, database-driven sales analytics, Text-to-SQL for numerical queries, and RAG for contextual questions. Integrated Supabase and developed data ingestion and synchronization workflows.
+
+2. Live Camera AI Assistant — Computer vision project focused on real-time object detection using YOLO and vision-language model integration.
+
+3. RAG-Based Resume Analyzer — Developed a document question-answering system using LangChain, FAISS, embeddings, LLMs, and a FastAPI backend.
+
+
+GitHub: https://github.com/Deepak-vikin
+
+LinkedIn: https://www.linkedin.com/in/deepakvikin26
+
+Instagram: https://www.instagram.com/vikin_ae
+
+LeetCode: https://leetcode.com/u/Deepak_Vikin/
+
+Email: deepak5519u@gmail.com
+
+Portfolio: Not provided
+
+Resume: Not provided
+
+Career Goal: To become an AI/ML Engineer with strong expertise in machine learning, Generative AI, and backend system development. Aspiring to design and build scalable, production-ready AI applications while continuously improving problem-solving abilities, mastering data structures and algorithms, and developing efficient solutions to real-world engineering challenges.
