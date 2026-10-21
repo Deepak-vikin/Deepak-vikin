@@ -1,143 +1,243 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=Deepak%20Vaidhyanathan&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Generative%20AI%20%7C%20Backend%20Developer&descAlignY=58&descColor=e0e0ff" width="100%" />
-
-</div>
+ 
+<!-- ==================== ANIMATED HEADER ==================== -->
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepakvikin26)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Deepak-vikin)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Deepak_Vikin/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vikin_ae)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepak5519u@gmail.com)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:6A11CB,50:2575FC,100:00D4FF&text=Deepak%20Vaidhyanathan&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Generative%20AI%20%7C%20Backend%20Development&descAlignY=58&descSize=16&animation=fadeIn" width="100%" alt="Animated profile banner"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=800&lines=Building+Intelligent+AI+Applications;Exploring+RAG+%26+Text-to-SQL;Computer+Vision+%7C+YOLO+%7C+LLMs;Turning+Ideas+into+Working+Projects;Always+Learning.+Always+Building." alt="Animated typing introduction"/>
+
+<br/>
+
+<a href="https://github.com/Deepak-vikin">
+  <img src="https://img.shields.io/badge/GitHub-Deepak--vikin-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/deepakvikin26">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://leetcode.com/u/Deepak_Vikin/">
+  <img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
+<a href="mailto:deepak5519u@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Deepak-vikin&label=PROFILE+VIEWS&color=6A11CB&style=for-the-badge" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/Deepak-vikin?label=FOLLOWERS&style=for-the-badge&color=2575FC" alt="GitHub followers"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<!-- ==================== ABOUT ME ==================== -->
 
-B.Tech student specializing in **Artificial Intelligence and Machine Learning** at **Sri Shakthi Institute of Engineering and Technology, Coimbatore**, passionate about building practical AI/ML applications, Generative AI systems, and robust backend services. 
+<img align="right" alt="Coding animation" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-Interested in developing **LLM-powered applications**, **RAG pipelines**, **computer vision solutions**, and **data-driven systems**. Actively practicing problem-solving through **LeetCode** to strengthen algorithmic thinking, data structures, and coding skills.
+## `whoami` — About Me
 
-- 🎓 **Degree:** B.Tech — Artificial Intelligence and Machine Learning (2024–2028)
-- 🏛️ **College:** Sri Shakthi Institute of Engineering and Technology, Coimbatore
-- 📅 **Year of Study:** Third Year
-- 📍 **Location:** Coimbatore, Tamil Nadu, India
-- 🎯 **Career Goal:** To become an AI/ML Engineer with strong expertise in machine learning, Generative AI, and backend system development. Aspiring to design and build scalable, production-ready AI applications while continuously mastering data structures, algorithms, and engineering solutions to real-world challenges.
+- 🎓 B.Tech student in **Artificial Intelligence and Machine Learning**
+- 🏫 Sri Shakthi Institute of Engineering and Technology, Coimbatore
+- 🤖 Interested in **Generative AI, LLM applications, RAG, and Computer Vision**
+- 🧠 Building AI systems that combine language models with structured data
+- 🔍 Exploring **Text-to-SQL, vector search, and intelligent data retrieval**
+- ⚙️ Developing backend services and practical AI applications
+- 💻 Improving problem-solving skills through **Data Structures and Algorithms**
+- 🚀 Focused on building useful, reliable, and production-oriented projects
+
+<br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+<!-- ==================== TECH STACK ==================== -->
+
+## ⚡ Technologies & Tools
 
 <div align="center">
-
-[![Python](https://skillicons.dev/icons?i=python,c,fastapi,flask,postgres,mysql,sqlite,supabase,pytorch,tensorflow,sklearn,git,github,vscode)](https://skillicons.dev)
-
-</div>
 
 ### 💻 Programming Languages
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)](https://devdocs.io/c/)
-[![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
-### 🤖 AI, Machine Learning & Generative AI
-[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://www.langchain.com/)
-[![LangGraph](https://img.shields.io/badge/LangGraph-FF6F00?style=for-the-badge)](https://langchain-ai.github.io/langgraph/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-[![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/)
-[![FAISS](https://img.shields.io/badge/FAISS-00599C?style=for-the-badge)](https://faiss.ai/)
-[![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)](https://ollama.com/)
-[![LLaMA 3](https://img.shields.io/badge/LLaMA_3-0467DF?style=for-the-badge)](https://www.llama.com/)
-[![Qwen](https://img.shields.io/badge/Qwen-613FEA?style=for-the-badge)](https://github.com/QwenLM)
-[![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)](https://ai.google.dev/)
-[![OpenRouter](https://img.shields.io/badge/OpenRouter-4B32C3?style=for-the-badge)](https://openrouter.ai/)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)](https://matplotlib.org/)
+<img src="https://skillicons.dev/icons?i=python,c,mysql&theme=dark" alt="Programming languages"/>
 
-### ⚙️ Backend & Frameworks
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
-[![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)](https://restfulapi.net/)
+### 🤖 AI / Machine Learning
 
-### 🗄️ Databases & Vector Storage
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
-[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
-[![FAISS](https://img.shields.io/badge/FAISS-00599C?style=for-the-badge)](https://faiss.ai/)
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" alt="AI and machine learning tools"/>
 
-### 🛠️ Developer Tools & Environment
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Deepak-vikin)
-[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+### 🧠 Generative AI & LLM Ecosystem
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
+<img src="https://img.shields.io/badge/LangGraph-202020?style=for-the-badge&logo=graphql&logoColor=white" alt="LangGraph"/>
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
+<img src="https://img.shields.io/badge/OpenRouter-6467F2?style=for-the-badge&logo=openrouter&logoColor=white" alt="OpenRouter"/>
+<img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini API"/>
+
+### 🌐 Backend Development
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,html,css,js&theme=dark" alt="Backend and web technologies"/>
+
+### 🗄️ Databases & Vector Search
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase&theme=dark" alt="Databases"/>
+<img src="https://img.shields.io/badge/FAISS-Vector_Search-0467DF?style=for-the-badge" alt="FAISS"/>
+
+### 🛠️ Developer Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="Developer tools"/>
+
+</div>
 
 ---
+
+<!-- ==================== FEATURED PROJECTS ==================== -->
 
 ## 🚀 Featured Projects
 
-### 🛒 [Retail Sales Intelligence Platform](https://github.com/Deepak-vikin/Retail-Sales-Intelligence-System)
-> A retail analytics and intelligence system combining barcode-based billing, database-driven sales analytics, Text-to-SQL for automated query generation, and RAG for conversational context exploration.
-
-- Built a barcode billing workflow and relational database-driven sales analytics system.
-- Implemented **Text-to-SQL** for automatic query generation to answer numerical and transactional business queries.
-- Developed **Retrieval-Augmented Generation (RAG)** pipelines for contextual retail information answering.
-- Integrated **Supabase** for database management and engineered robust data ingestion and synchronization workflows.
-
-`Python` `FastAPI` `LangChain` `Supabase` `PostgreSQL` `RAG` `Text-to-SQL` `REST APIs`
-
----
-
-### 👁️ [Live Camera AI Assistant](https://github.com/Deepak-vikin/Live-Camera-AI)
-> A computer vision platform focused on real-time object detection and intelligent visual reasoning using YOLO and vision-language model integration.
-
-- Implemented real-time object detection and tracking pipeline powered by **YOLO**.
-- Integrated **Vision-Language Models (VLMs)** for multi-modal reasoning and scene understanding.
-- Optimized camera video stream processing for low-latency visual inference and response.
-
-`Python` `Computer Vision` `YOLO` `Vision-Language Models` `PyTorch` `OpenCV`
-
----
-
-### 📄 [RAG-Based Resume Analyzer](https://github.com/Deepak-vikin/RAG-BASED-RESUME-ANALYZER)
-> An intelligent document question-answering system leveraging LangChain, vector similarity search, and LLMs for semantic resume analysis.
-
-- Designed document ingestion, chunking, vector embedding, and similarity search using **FAISS**.
-- Integrated **LLMs** (LLaMA / OpenAI) with retrieved resume context to generate grounded, high-precision responses, significantly reducing hallucinations.
-- Built a modular **FastAPI** backend to expose the entire RAG pipeline via clean REST API endpoints.
-
-`Python` `FastAPI` `LangChain` `FAISS` `LLMs` `RAG` `Embeddings` `REST APIs`
-
----
-
-## 📊 Statistics & Coding Activity
-
-### 🧩 LeetCode Progress
 <div align="center">
-  <a href="https://leetcode.com/u/Deepak_Vikin/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/Deepak_Vikin?theme=light&font=Baloo+2&ext=heatmap" alt="LeetCode Stats" />
-  </a>
+
+<a href="https://github.com/Deepak-vikin">
+  <img src="https://img.shields.io/badge/Explore-My%20Repositories-6A11CB?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+</a>
+
 </div>
+
+### 1. 🛒 Retail Sales Intelligence Platform
+
+> An AI-powered retail analytics system combining structured database queries with conversational question answering.
+
+- 📊 **Text-to-SQL** for numerical questions such as revenue, sales, and product performance
+- 🧠 **RAG-based question answering** for contextual and explanatory queries
+- 🗄️ Supabase-backed retail data storage
+- 🔄 CSV-based data ingestion and synchronization
+- 📦 Product, inventory, supplier, billing, and sales analytics
+
+**Tech stack:** `Python` `FastAPI` `Supabase` `SQL` `LLMs` `RAG` `Text-to-SQL`
+
+### 2. 📷 Live Camera AI Assistant
+
+> A computer vision project focused on real-time object detection and visual AI assistance.
+
+- 🎯 Real-time object detection using YOLO
+- 👁️ Camera-based visual input processing
+- 🤖 Vision-language model integration
+- ⚡ Exploring practical real-time AI workflows
+
+**Tech stack:** `Python` `YOLO` `Computer Vision` `Vision-Language Models`
+
+### 3. 📄 RAG-Based Resume Analyzer
+
+> A document question-answering application that uses retrieval-augmented generation to retrieve relevant information from resume documents.
+
+- 📑 PDF document ingestion and processing
+- 🔎 Semantic retrieval using embeddings and FAISS
+- 🧠 Context-aware question answering with LLMs
+- 🌐 Application interface and backend integration
+
+**Tech stack:** `Python` `LangChain` `FAISS` `Hugging Face Embeddings` `LLMs` `FastAPI`
+
+---
+
+<!-- ==================== GITHUB CONTRIBUTION SNAKE ==================== -->
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Deepak-vikin/Deepak-vikin/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake" width="100%"/>
+
+</div>
+
+---
+
+<!-- ==================== GITHUB STATISTICS ==================== -->
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Deepak-vikin&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak-vikin&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Deepak-vikin&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" width="70%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepak-vikin&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" width="100%"/>
+
+</div>
+
+---
+
+<!-- ==================== LEETCODE ==================== -->
+
+## 🧩 LeetCode Journey
+
+<div align="center">
+
+<a href="https://leetcode.com/u/Deepak_Vikin/">
+  <img src="https://leetcard.jacoblin.cool/Deepak_Vikin?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode profile statistics" width="75%"/>
+</a>
 
 <br/>
 
-### 🐙 GitHub Activity
-<div align="center">
-  <a href="https://github.com/Deepak-vikin">
-    <img src="https://github-readme-stats.vercel.app/api?username=Deepak-vikin&show_icons=true&theme=radical&hide_border=true" alt="Deepak's GitHub Stats" />
-  </a>
-  <a href="https://github.com/Deepak-vikin">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak-vikin&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  </a>
+**Consistency • Problem Solving • Algorithmic Thinking**
+
+<a href="https://leetcode.com/u/Deepak_Vikin/">
+  <img src="https://img.shields.io/badge/Visit%20My-LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="Visit LeetCode"/>
+</a>
+
 </div>
 
-<br/>
+---
+
+<!-- ==================== CURRENT FOCUS ==================== -->
+
+## 🎯 What I'm Working On
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" width="100%" />
+
+| Area | Focus |
+|:---:|:---|
+| 🤖 Generative AI | RAG, LLM applications, Text-to-SQL |
+| 👁️ Computer Vision | YOLO, real-time detection, visual AI |
+| ⚙️ Backend | FastAPI, REST APIs, database integration |
+| 🧠 Problem Solving | Graphs, binary search, dynamic programming |
+| 🚀 Engineering | Building practical and reliable AI applications |
+
+</div>
+
+---
+
+<!-- ==================== CONNECT ==================== -->
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+I'm interested in AI/ML projects, Generative AI applications, computer vision, and opportunities to learn and collaborate.
+
+<a href="https://github.com/Deepak-vikin">
+  <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/deepakvikin26">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:deepak5519u@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/><br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Inspirational quote"/>
+
+<br/><br/>
+
+### 💫 *Build. Learn. Improve. Repeat.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:2575FC,100:6A11CB&height=120&section=footer" width="100%" alt="Animated footer banner"/>
+
 </div>
