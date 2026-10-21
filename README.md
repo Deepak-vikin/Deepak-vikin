@@ -1,243 +1,372 @@
- 
-<!-- ==================== ANIMATED HEADER ==================== -->
+<!-- ==================== DEEPAK VAI DHYANATHAN | PROFILE README ==================== -->
 
+<!-- ANIMATED TOP BANNER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f2027,50:203a43,100:2c5364&text=DEEPAK%20VAIDHYANATHAN&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20ENGINEER%20%7C%20GENERATIVE%20AI%20%7C%20COMPUTER%20VISION&descSize=13&descAlignY=58" width="100%" alt="Animated profile banner"/>
+</div>
+
+<!-- DECORATIVE SEPARATOR -->
+<img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="Decorative separator"/>
+
+<!-- ANIMATED TYPING INTRO -->
+<div align="center">
+  <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="16" align="left" alt="Flame decoration"/>
+  <img src="https://github.com/readme-typing-svg/master/demo/lines.svg" width="0" height="0" alt=""/>
+  <a href="https://github.com/Deepak-vikin">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2800&pause=1200&color=A9FEF7&center=true&vCenter=true&width=850&lines=Hey%2C+I'm+Deepak+%F0%9F%91%8B;AI%2FML+Engineer+in+Progress;Building+RAG+%26+Text-to-SQL+Systems;Exploring+Computer+Vision+%26+LLMs;Turning+Ideas+into+AI+Applications" alt="Animated typing introduction"/>
+  </a>
+  <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="16" align="right" alt="Flame decoration"/>
+</div>
+
+<img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="Decorative separator"/>
+
+<!-- PROFILE LINKS -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:6A11CB,50:2575FC,100:00D4FF&text=Deepak%20Vaidhyanathan&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Generative%20AI%20%7C%20Backend%20Development&descAlignY=58&descSize=16&animation=fadeIn" width="100%" alt="Animated profile banner"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=800&lines=Building+Intelligent+AI+Applications;Exploring+RAG+%26+Text-to-SQL;Computer+Vision+%7C+YOLO+%7C+LLMs;Turning+Ideas+into+Working+Projects;Always+Learning.+Always+Building." alt="Animated typing introduction"/>
-
-<br/>
-
 <a href="https://github.com/Deepak-vikin">
-  <img src="https://img.shields.io/badge/GitHub-Deepak--vikin-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://komarev.com/ghpvc/?username=Deepak-vikin&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="GitHub profile views"/>
 </a>
+<a href="https://github.com/Deepak-vikin?tab=followers">
+  <img src="https://img.shields.io/github/followers/Deepak-vikin?label=Followers&style=for-the-badge&color=blue" alt="GitHub followers"/>
+</a>
+<a href="https://github.com/Deepak-vikin?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-Explore-181717?style=for-the-badge&logo=github" alt="Explore repositories"/>
+</a>
+
+<br/><br/>
+
 <a href="https://www.linkedin.com/in/deepakvikin26">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://leetcode.com/u/Deepak_Vikin/">
-  <img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
 <a href="mailto:deepak5519u@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Deepak-vikin&label=PROFILE+VIEWS&color=6A11CB&style=for-the-badge" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/Deepak-vikin?label=FOLLOWERS&style=for-the-badge&color=2575FC" alt="GitHub followers"/>
-
 </div>
 
----
+<br/>
 
-<!-- ==================== ABOUT ME ==================== -->
+<!-- CONTRIBUTION SNAKE -->
+<div align="center">
+  <a href="https://github.com/Deepak-vikin">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Deepak-vikin/Deepak-vikin/output/github-contribution-grid-snake-dark.svg"/>
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Deepak-vikin/Deepak-vikin/output/github-contribution-grid-snake-light.svg"/>
+      <img src="https://raw.githubusercontent.com/Deepak-vikin/Deepak-vikin/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake" width="100%"/>
+    </picture>
+  </a>
+</div>
 
-<img align="right" alt="Coding animation" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="Decorative separator"/>
 
-## `whoami` — About Me
+<!-- ABOUT ME -->
+<div align="center">
+  <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="16" align="left" alt="Flame decoration"/>
+  <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="16" align="right" alt="Flame decoration"/>
+  <h2>😎 About Me</h2>
+</div>
 
-- 🎓 B.Tech student in **Artificial Intelligence and Machine Learning**
-- 🏫 Sri Shakthi Institute of Engineering and Technology, Coimbatore
-- 🤖 Interested in **Generative AI, LLM applications, RAG, and Computer Vision**
-- 🧠 Building AI systems that combine language models with structured data
-- 🔍 Exploring **Text-to-SQL, vector search, and intelligent data retrieval**
-- ⚙️ Developing backend services and practical AI applications
-- 💻 Improving problem-solving skills through **Data Structures and Algorithms**
-- 🚀 Focused on building useful, reliable, and production-oriented projects
+<a href="https://github.com/Deepak-vikin">
+  <img align="right" src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/d9e4b62b-5878-4d64-a362-bce0b027ed03" width="34%" alt="Pixel-art city illustration"/>
+</a>
+
+Hello! 👋 I'm **Deepak Vaidhyanathan**, a B.Tech student specializing in **Artificial Intelligence and Machine Learning** at Sri Shakthi Institute of Engineering and Technology, Coimbatore.
+
+I'm interested in building practical AI applications that combine machine learning, large language models, computer vision, and backend engineering.
+
+- 🤖 **Generative AI:** Exploring RAG pipelines, LLM applications, embeddings, and Text-to-SQL.
+- 👁️ **Computer Vision:** Working with YOLO-based object detection and real-time visual AI.
+- ⚙️ **Backend Engineering:** Developing REST APIs and AI-powered services with FastAPI and Flask.
+- 🗄️ **Data Systems:** Working with PostgreSQL, Supabase, SQL, and vector search.
+- 🧩 **Problem Solving:** Practising data structures, algorithms, graph problems, and dynamic programming.
+- 🚀 **Goal:** Build reliable, useful, and production-oriented AI/ML systems.
 
 <br clear="right"/>
 
----
+<img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="Decorative separator"/>
 
-<!-- ==================== TECH STACK ==================== -->
+<!-- MY PROJECTS -->
+<div align="center">
+  <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="16" align="left" alt="Flame decoration"/>
+  <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="16" align="right" alt="Flame decoration"/>
+  <h2>🚀 Featured Projects</h2>
+</div>
 
-## ⚡ Technologies & Tools
+<div align="center">
+
+<a href="https://github.com/Deepak-vikin?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore-My%20Projects-6A11CB?style=for-the-badge&logo=github&logoColor=white" alt="Explore my projects"/>
+</a>
+
+</div>
+
+### 🛒 1. Retail Sales Intelligence Platform
+
+An AI-powered retail analytics platform combining exact SQL calculations with conversational question answering.
+
+- 📊 Text-to-SQL for revenue, billing, and product-sales questions.
+- 🧠 RAG for contextual and explanatory questions.
+- 🗄️ Supabase-backed retail database.
+- 🔄 CSV-based ingestion and data synchronization.
+- 📦 Product, supplier, inventory, and billing analytics.
+
+**Technologies:** Python · FastAPI · Supabase · SQL · RAG · LLMs
+
+### 📷 2. Live Camera AI Assistant
+
+A computer vision application focused on real-time object detection and visual AI assistance.
+
+- 🎯 YOLO-based object detection.
+- 📹 Live camera input processing.
+- 🤖 Vision-language model integration.
+- ⚡ Practical real-time computer vision workflows.
+
+**Technologies:** Python · YOLO · Computer Vision · Vision-Language Models
+
+### 📄 3. RAG-Based Resume Analyzer
+
+A document question-answering application that retrieves relevant information from resume documents and uses an LLM to generate contextual answers.
+
+- 📑 PDF ingestion and document processing.
+- 🔎 Semantic search with embeddings and FAISS.
+- 🧠 Retrieval-augmented question answering.
+- 🌐 Backend integration for an AI-powered document workflow.
+
+**Technologies:** Python · LangChain · FAISS · Hugging Face Embeddings · FastAPI
+
+<div align="center">
+  <a href="https://github.com/Deepak-vikin?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All-My%20Repositories-181717?style=for-the-badge&logo=github" alt="View all projects"/>
+  </a>
+</div>
+
+<img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="Decorative separator"/>
+
+<!-- GITHUB COMPANIONS -->
+<div align="center">
+  <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="16" align="left" alt="Flame decoration"/>
+  <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="16" align="right" alt="Flame decoration"/>
+  <h2>🐱 My GitHub Companions</h2>
+  <br/>
+  <a href="https://github.com/Deepak-vikin">
+    <img src="https://render.gitanimals.org/lines/Deepak-vikin" width="800" height="300" alt="GitHub contribution creatures"/>
+  </a>
+</div>
+
+<img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="Decorative separator"/>
+
+<!-- TECH STACK -->
+<div align="center">
+  <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="16" align="left" alt="Flame decoration"/>
+  <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="16" align="right" alt="Flame decoration"/>
+  <h2>🧑‍💻 Technology Stack</h2>
+</div>
 
 <div align="center">
 
 ### 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,c,mysql&theme=dark" alt="Programming languages"/>
+<a href="https://github.com/Deepak-vikin">
+  <img src="https://skillicons.dev/icons?i=python,c&theme=dark" alt="Python and C"/>
+</a>
 
-### 🤖 AI / Machine Learning
+### 🧠 AI, Machine Learning & Data
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" alt="AI and machine learning tools"/>
+<a href="https://pytorch.org/">
+  <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch"/>
+</a>
+<a href="https://www.tensorflow.org/">
+  <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow"/>
+</a>
+<a href="https://scikit-learn.org/">
+  <img src="https://skillicons.dev/icons?i=sklearn" alt="Scikit-learn"/>
+</a>
+<a href="https://huggingface.co/">
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+</a>
+<a href="https://www.langchain.com/">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
+</a>
+<a href="https://ollama.com/">
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
+</a>
 
-### 🧠 Generative AI & LLM Ecosystem
+### ⚙️ Backend & Web
 
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
-<img src="https://img.shields.io/badge/LangGraph-202020?style=for-the-badge&logo=graphql&logoColor=white" alt="LangGraph"/>
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
-<img src="https://img.shields.io/badge/OpenRouter-6467F2?style=for-the-badge&logo=openrouter&logoColor=white" alt="OpenRouter"/>
-<img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini API"/>
+<a href="https://fastapi.tiangolo.com/">
+  <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI"/>
+</a>
+<a href="https://flask.palletsprojects.com/">
+  <img src="https://skillicons.dev/icons?i=flask" alt="Flask"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML CSS JavaScript"/>
+</a>
 
-### 🌐 Backend Development
+### 🗄️ Databases & Search
 
-<img src="https://skillicons.dev/icons?i=fastapi,flask,html,css,js&theme=dark" alt="Backend and web technologies"/>
+<a href="https://www.postgresql.org/">
+  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL"/>
+</a>
+<a href="https://www.mysql.com/">
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/>
+</a>
+<a href="https://supabase.com/">
+  <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase"/>
+</a>
+<a href="https://github.com/facebookresearch/faiss">
+  <img src="https://img.shields.io/badge/FAISS-Vector%20Search-0467DF?style=for-the-badge" alt="FAISS"/>
+</a>
 
-### 🗄️ Databases & Vector Search
+### 🛠️ Development Tools
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase&theme=dark" alt="Databases"/>
-<img src="https://img.shields.io/badge/FAISS-Vector_Search-0467DF?style=for-the-badge" alt="FAISS"/>
-
-### 🛠️ Developer Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="Developer tools"/>
+<a href="https://git-scm.com/">
+  <img src="https://skillicons.dev/icons?i=git" alt="Git"/>
+</a>
+<a href="https://github.com/">
+  <img src="https://skillicons.dev/icons?i=github,githubactions" alt="GitHub and GitHub Actions"/>
+</a>
+<a href="https://code.visualstudio.com/">
+  <img src="https://skillicons.dev/icons?i=vscode,linux&theme=dark" alt="VS Code and Linux"/>
+</a>
 
 </div>
 
----
+<img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="Decorative separator"/>
 
-<!-- ==================== FEATURED PROJECTS ==================== -->
-
-## 🚀 Featured Projects
+<!-- GITHUB ANALYTICS -->
+<div align="center">
+  <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="16" align="left" alt="Flame decoration"/>
+  <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="16" align="right" alt="Flame decoration"/>
+  <h2>📊 GitHub Analytics</h2>
+</div>
 
 <div align="center">
 
 <a href="https://github.com/Deepak-vikin">
-  <img src="https://img.shields.io/badge/Explore-My%20Repositories-6A11CB?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deepak-vikin&theme=tokyonight" width="100%" alt="GitHub profile summary"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/Deepak-vikin">
+  <img src="https://github-readme-stats.vercel.app/api?username=Deepak-vikin&show_icons=true&theme=tokyonight&hide_border=true&hide=contribs&cache_seconds=86400" height="180" alt="GitHub statistics"/>
+</a>
+
+<a href="https://github.com/Deepak-vikin?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak-vikin&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Most used programming languages"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/Deepak-vikin">
+  <img src="https://streak-stats.demolab.com?user=Deepak-vikin&theme=tokyonight&hide_border=true" width="80%" alt="GitHub contribution streak"/>
 </a>
 
 </div>
 
-### 1. 🛒 Retail Sales Intelligence Platform
+<img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="Decorative separator"/>
 
-> An AI-powered retail analytics system combining structured database queries with conversational question answering.
+<!-- CONTRIBUTION ACTIVITY -->
+<div align="center">
+  <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="16" align="left" alt="Flame decoration"/>
+  <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="16" align="right" alt="Flame decoration"/>
+  <h2>📈 Contribution Activity</h2>
+  <br/>
+  <a href="https://github.com/Deepak-vikin">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepak-vikin&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
+  </a>
+  <br/>
+  <a href="https://github.com/Deepak-vikin">
+    <img src="https://img.shields.io/badge/View%20Activity-GitHub-181717?style=for-the-badge&logo=github" alt="View GitHub activity"/>
+  </a>
+</div>
 
-- 📊 **Text-to-SQL** for numerical questions such as revenue, sales, and product performance
-- 🧠 **RAG-based question answering** for contextual and explanatory queries
-- 🗄️ Supabase-backed retail data storage
-- 🔄 CSV-based data ingestion and synchronization
-- 📦 Product, inventory, supplier, billing, and sales analytics
+<img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="Decorative separator"/>
 
-**Tech stack:** `Python` `FastAPI` `Supabase` `SQL` `LLMs` `RAG` `Text-to-SQL`
+<!-- LEETCODE -->
+<div align="center">
+  <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="16" align="left" alt="Flame decoration"/>
+  <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="16" align="right" alt="Flame decoration"/>
+  <h2>🧩 LeetCode Journey</h2>
+  <br/>
+  <a href="https://leetcode.com/u/Deepak_Vikin/">
+    <img src="https://leetcard.jacoblin.cool/Deepak_Vikin?theme=dark&font=Fira%20Code&ext=heatmap" width="80%" alt="LeetCode statistics and activity heatmap"/>
+  </a>
+  <br/><br/>
+  <a href="https://leetcode.com/u/Deepak_Vikin/">
+    <img src="https://img.shields.io/badge/Visit%20My-LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="Open LeetCode profile"/>
+  </a>
+</div>
 
-### 2. 📷 Live Camera AI Assistant
+<img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="Decorative separator"/>
 
-> A computer vision project focused on real-time object detection and visual AI assistance.
-
-- 🎯 Real-time object detection using YOLO
-- 👁️ Camera-based visual input processing
-- 🤖 Vision-language model integration
-- ⚡ Exploring practical real-time AI workflows
-
-**Tech stack:** `Python` `YOLO` `Computer Vision` `Vision-Language Models`
-
-### 3. 📄 RAG-Based Resume Analyzer
-
-> A document question-answering application that uses retrieval-augmented generation to retrieve relevant information from resume documents.
-
-- 📑 PDF document ingestion and processing
-- 🔎 Semantic retrieval using embeddings and FAISS
-- 🧠 Context-aware question answering with LLMs
-- 🌐 Application interface and backend integration
-
-**Tech stack:** `Python` `LangChain` `FAISS` `Hugging Face Embeddings` `LLMs` `FastAPI`
-
----
-
-<!-- ==================== GITHUB CONTRIBUTION SNAKE ==================== -->
-
-## 🐍 Contribution Snake
+<!-- CURRENT FOCUS -->
+<div align="center">
+  <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="16" align="left" alt="Flame decoration"/>
+  <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="16" align="right" alt="Flame decoration"/>
+  <h2>🎯 Current Focus</h2>
+</div>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Deepak-vikin/Deepak-vikin/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake" width="100%"/>
+| Domain | Focus |
+|:---|:---|
+| 🤖 Generative AI | RAG, LLMs, Text-to-SQL |
+| 👁️ Computer Vision | YOLO, object detection, vision-language models |
+| ⚙️ Backend | FastAPI, REST APIs, database integration |
+| 🧠 DSA | Graphs, binary search, dynamic programming |
+| 🚀 Engineering | Reliable AI applications and practical projects |
 
 </div>
 
----
+<img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="Decorative separator"/>
 
-<!-- ==================== GITHUB STATISTICS ==================== -->
-
-## 📊 GitHub Statistics
-
+<!-- DAILY INSPIRATION -->
 <div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Deepak-vikin&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak-vikin&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Deepak-vikin&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" width="70%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepak-vikin&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" width="100%"/>
-
+  <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="16" align="left" alt="Flame decoration"/>
+  <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="16" align="right" alt="Flame decoration"/>
+  <h2>💡 Daily Inspiration</h2>
+  <br/>
+  <a href="https://github.com/marketplace">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Developer inspiration quote"/>
+  </a>
 </div>
 
----
+<img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="Decorative separator"/>
 
-<!-- ==================== LEETCODE ==================== -->
-
-## 🧩 LeetCode Journey
-
+<!-- CONNECT -->
 <div align="center">
-
-<a href="https://leetcode.com/u/Deepak_Vikin/">
-  <img src="https://leetcard.jacoblin.cool/Deepak_Vikin?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode profile statistics" width="75%"/>
-</a>
+  <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="16" align="left" alt="Flame decoration"/>
+  <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="16" align="right" alt="Flame decoration"/>
+  <h2>🤝 Let's Connect</h2>
+  <p>Interested in AI/ML, Generative AI, computer vision, and building useful software? Let's connect.</p>
+  <br/>
+  <a href="https://github.com/Deepak-vikin">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/deepakvikin26">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/u/Deepak_Vikin/">
+    <img src="https://img.shields.io/badge/LeetCode-Connect-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="mailto:deepak5519u@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
 
 <br/>
 
-**Consistency • Problem Solving • Algorithmic Thinking**
-
-<a href="https://leetcode.com/u/Deepak_Vikin/">
-  <img src="https://img.shields.io/badge/Visit%20My-LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="Visit LeetCode"/>
-</a>
-
-</div>
-
----
-
-<!-- ==================== CURRENT FOCUS ==================== -->
-
-## 🎯 What I'm Working On
-
+<!-- FOOTER -->
 <div align="center">
-
-| Area | Focus |
-|:---:|:---|
-| 🤖 Generative AI | RAG, LLM applications, Text-to-SQL |
-| 👁️ Computer Vision | YOLO, real-time detection, visual AI |
-| ⚙️ Backend | FastAPI, REST APIs, database integration |
-| 🧠 Problem Solving | Graphs, binary search, dynamic programming |
-| 🚀 Engineering | Building practical and reliable AI applications |
-
+  <h3>💫 Build. Learn. Improve. Repeat.</h3>
+  <a href="https://github.com/Deepak-vikin">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&animation=fadeIn" width="100%" alt="Animated profile footer"/>
+  </a>
 </div>
 
----
-
-<!-- ==================== CONNECT ==================== -->
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-I'm interested in AI/ML projects, Generative AI applications, computer vision, and opportunities to learn and collaborate.
-
-<a href="https://github.com/Deepak-vikin">
-  <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/deepakvikin26">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:deepak5519u@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-<br/><br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Inspirational quote"/>
-
-<br/><br/>
-
-### 💫 *Build. Learn. Improve. Repeat.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:2575FC,100:6A11CB&height=120&section=footer" width="100%" alt="Animated footer banner"/>
-
-</div>
+<!-- ==================== END OF README ==================== -->
